@@ -1,0 +1,54 @@
+body{
+  color: black;
+  background-color:gray;
+}
+
+#wrapperDiv{
+	width: 900px;
+	height: 750px;
+	background-color: pink;
+	margin:auto;
+}
+
+#headerDiv{
+	width: 900px;
+	height: 200px;
+	border: solid black 3px;
+	background-color: purple;
+}
+
+#navDiv{
+	width: 900px;
+	height: 50px;
+	border: solid black 3px;
+	background-color: blue;
+}
+
+#bodyDiv{
+	width: 900px;
+	height: 500px;
+	border: solid black 3px;
+	background-color: pink;
+
+}
+
+.buttonDiv{
+	width: 150px;
+	height: 40px;
+	border: solid black 1px;
+	background-color: white;
+	margin: 3px;
+	margin-left:60px;
+	float: left;
+	text-align: center;
+
+}
+
+#Corgi2{
+	float:left;
+}
+
+#Corgi1{
+	float:left;
+	margin-left: 500px;
+}
